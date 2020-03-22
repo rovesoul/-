@@ -16,10 +16,13 @@
 ## 回归算法
 - 线性回归
 
-
-## 聚类算法
+## 非监督
+### 聚类算法
 - Kmeans[链接](https://github.com/rovesoul/ML-and-DL-Study/blob/master/K-Means.py)
 - DBSCAN[链接](https://github.com/rovesoul/ML-and-DL-Study/blob/master/DBSCAN.py)
 
-## 关联算法
+### 关联算法
 - 啤酒尿布关联[链接](https://github.com/rovesoul/ML-and-DL-Study/blob/master/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99.py)
+
+### 标签传播法
+- 标签传播法[链接](https://github.com/rovesoul/ML-and-DL-Study/blob/master/%E9%9D%9E%E7%9B%91%E7%9D%A3-%E6%A0%87%E7%AD%BE%E4%BC%A0%E6%92%AD%E6%B3%95.py)
